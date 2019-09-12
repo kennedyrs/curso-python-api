@@ -4,6 +4,7 @@
 
 ### Kennedy ignores ###
 .docker/
+.DS_*
 
 ### Django ###
 *.log
